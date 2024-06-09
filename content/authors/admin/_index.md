@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 雷lei
+title: 雷诏凯
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: zhaokai lei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: lei
+last_name: zhaokai
 
 # Status emoji
 status:
