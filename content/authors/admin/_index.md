@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 雷诏凯
+title: 雷leilei
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
