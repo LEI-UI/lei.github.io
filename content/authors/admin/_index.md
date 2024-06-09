@@ -58,7 +58,7 @@ education:
   - area: BSc Electrical Engineering
     institution: North China Electric Power University
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-04
     summary: |
       GPA: 3.4/4.0
       Courses included:
