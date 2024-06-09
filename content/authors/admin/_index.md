@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,9 +46,9 @@ interests:
   - Power Electronic
 
 education:
-  - area: EngD Electrical Engineering
+  - area: PhD Electrical Engineering
     institution: Shanghai Jiao Tong University
-    date_start: 2020-03-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
