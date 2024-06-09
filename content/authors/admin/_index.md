@@ -48,7 +48,7 @@ interests:
 education:
   - area: EngD Electrical Engineering
     institution: Shanghai Jiao Tong University
-    date_start: 2024
+    date_start: 2024-9
     date_end: NOW
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
