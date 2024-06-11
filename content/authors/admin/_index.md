@@ -61,11 +61,13 @@ education:
     date_end: 2024-06-04
     summary: |
       GPA: 3.98/5.0
+      
       Courses included:
       - Fundamentals of Analog Electronic Technology 
       - Fundamentals of Digital Electronic Technology 
       - Power Electronic Technology 
       - Power System Analysis
+
 
 
 
