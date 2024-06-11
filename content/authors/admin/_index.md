@@ -31,7 +31,7 @@ role: Phd Student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lzk1975210356@outlook.com'
+    url: 'mailto:lzk1975210356@outlook.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/gcushen
