@@ -60,11 +60,13 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-04
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.98/5.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Fundamentals of Analog Electronic Technology 
+      - Fundamentals of Digital Electronic Technology 
+      - Power Electronic Technology 
+      - Power System Analysis
+
 
 
 #work:
