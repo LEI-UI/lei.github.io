@@ -51,10 +51,8 @@ education:
     date_start: 2024-06-30
     date_end: ''
     summary: |
-     nothing
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      nothing
+    
   - area: BEng Electrical Engineering
     institution: North China Electric Power University
     date_start: 2020-09-01
