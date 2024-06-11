@@ -48,7 +48,7 @@ interests:
 education:
   - area: PhD Electrical Engineering
     institution: Shanghai Jiao Tong University
-    date_start: 2024-09-01
+    date_start: 2024-06-30
     date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -58,10 +58,10 @@ education:
   - area: BEng Electrical Engineering
     institution: North China Electric Power University
     date_start: 2020-09-01
-    date_end: 2024-06-04
+    date_end: 2024-06-30
     summary: |
       GPA: 3.98/5.0
-      
+
       Courses included:
       - Fundamentals of Analog Electronic Technology 
       - Fundamentals of Digital Electronic Technology 
